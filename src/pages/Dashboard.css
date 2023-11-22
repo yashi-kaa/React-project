@@ -1,0 +1,21 @@
+.button1
+{
+    font-size: 20px;
+    padding: 11px;
+    width: -webkit-fill-available;
+    background-color: cadetblue;
+    border-color: white;
+    margin-top: 24px;
+    margin-bottom: 14px;
+    color: white;
+}
+.header
+{
+    margin-top:-100px;
+    position: relative;
+    top:-30px;
+}
+.new
+{
+    margin-top: 100px;
+}
